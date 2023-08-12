@@ -1,0 +1,21 @@
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\kevin\OneDrive\Escritorio\Ejercicio 3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\MINEDUCYT\Documents\ProgramacionOrientadaEventos\Laboratorio1\Tarea1\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
